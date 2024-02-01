@@ -1,16 +1,6 @@
-# task_list_sqflite
+# Lista de tarefas com SQFlite
 
-A new Flutter project.
+## 📷Video do Projeto
+https://github.com/tassiogustavo/task_list_sqflite/assets/70405308/8740c312-d899-4ae3-9186-7aea6d9fc82d
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Bem-vindo ao repositório da Lista de tarefas com SQFlite! Este projeto é um aplicativo desenvolvido para estudos da persistencia de dados no Flutter. Neste caso utilizando SQFlite de onde é feito toda manipulação de dados.
